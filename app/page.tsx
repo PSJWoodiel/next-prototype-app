@@ -34,6 +34,12 @@ export default function Home() {
             width={180}
             height={38}
             priority />
+          <Image
+            src="https://amplify-d335597a80fxjy-ma-amplifyteamdrivebucket28-i47hjvvkemxz.s3.us-east-2.amazonaws.com/RSNATestLogo.png"
+            alt="RSNA Logo"
+            width={180}
+            height={38}
+            priority />
           <ol className="font-mono list-inside list-decimal text-sm/6 text-center sm:text-left">
             <li className="mb-2 tracking-[-.01em]">
               Get started by editing{" "}
